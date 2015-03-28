@@ -1,0 +1,3 @@
+C:\Users\Elroy\Desktop\Snake\Snake\SnakeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elroy\Documents\school\Snake\Snake\SnakeContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elroy\Documents\School\xna\Projects\Snake\Snake\SnakeContent\obj\x86\Debug\SnakeContent.contentprojResolveAssemblyReference.cache
